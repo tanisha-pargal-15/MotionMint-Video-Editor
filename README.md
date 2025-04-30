@@ -10,6 +10,7 @@ This was a hobby project. I will add support for other features in the future.
 
 
 **MotionMint – Build the Frontend for a Web-based Video Editing Platform**
+
 This project is a browser-based video editor built using modern frontend tools. It enables users to:
 
 - Upload custom videos
@@ -70,16 +71,13 @@ todo
 - [x] Animations
 - [x] Filters
 
-## Main Issues
-
-1. There might be a problem with audio handling
-2. Exported video doesn't have a time duration
-3. Exported videos have flickering issue
-
 ## Future Features
-
-3. Properties Editing panel
-4. Video Trimming
+Backend export via FFmpeg
+Full properties editing panel
+Video trimming with frame precision
+Timeline drag-and-drop with snapping
+Properties Editing panel
+Video Trimming
 
 ## NextJs Default Guide (Updated)
 
