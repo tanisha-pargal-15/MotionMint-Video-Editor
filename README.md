@@ -8,9 +8,32 @@
 
 This was a hobby project. I will add support for other features in the future.
 
-# Fabric Video Editor
 
-Fabric Video Editor is a video editor that runs in the browser. It is built with fabric.js, Next.js (a React framework), Tailwindcss, Mobx, and typescript.
+**MotionMint – Build the Frontend for a Web-based Video Editing Platform**
+This project is a browser-based video editor built using modern frontend tools. It enables users to:
+
+- Upload custom videos
+- Rearrange audio and scenes on a timeline
+- Add subtitles, styled text overlays, and images
+- Preview edited videos in real-time
+- Export and download the final result (mock/simulated)
+
+This implementation focuses on the **frontend** only, with mock or stubbed backend behavior where needed.
+
+## 🧱 Tech Stack
+
+**Required Stack:**
+- ✅ Next.js (App Router)
+- ✅ React.js
+- ✅ Tailwind CSS
+- ✅ Redux Toolkit *(replaced with MobX for state management)*
+- ✅ ShadCN UI (dialogs, buttons, modals)
+
+**Additional Libraries Used:**
+- ✅ fabric.js (for canvas manipulation)
+- ✅ TypeScript
+- ✅ HTML5 `<video>` tag
+- ✅ Custom hooks, modular architecture
 
 
 ## Samples
