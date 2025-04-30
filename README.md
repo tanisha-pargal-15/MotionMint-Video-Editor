@@ -7,7 +7,7 @@
 The app's live link to test in the browser is: https://fabric-video-editor.vercel.app/
 
 
-This was a hobby project. I will add support for other features in the future. Looking for backend/ffmpeg developers to help me generate video from Canvas in the backend.
+This was a hobby project. I will add support for other features in the future.
 
 # Fabric Video Editor
 
