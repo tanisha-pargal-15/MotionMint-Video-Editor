@@ -3,9 +3,8 @@
 **Live Link**: [https://motion-mint-video-editor.vercel.app](https://motion-mint-video-editor.vercel.app)
 
 **GitHub Repo**: [https://github.com/tanishapargal/motion-mint-video-editor](https://github.com/tanishapargal/motion-mint-video-editor)  
-**Created by**: Tanisha Pargal
-The app's live link to test in the browser is: https://fabric-video-editor.vercel.app/
 
+**Created by**: Tanisha Pargal
 
 This was a hobby project. I will add support for other features in the future.
 
