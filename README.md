@@ -40,7 +40,7 @@ This implementation focuses on the **frontend** only, with mock or stubbed backe
 
 ### 1. Basic Working
 
-https://github.com/AmitDigga/fabric-video-editor/assets/7884106/89674396-a0d3-45a3-b1cd-51097142b8f8
+[https://github.com/AmitDigga/fabric-video-editor/assets/7884106/89674396-a0d3-45a3-b1cd-51097142b8f8](https://drive.google.com/file/d/1Tfq51XXeypJVcKF8_eirwaqJaQUkOzeq/view)
 
 
 
